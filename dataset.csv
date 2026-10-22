@@ -1,0 +1,81 @@
+User_Text,Sentiment_Label,Song_Title,Artist,Genre,Mood,Tempo_BPM,Energy_Level
+"I am feeling so joyful and happy today, smiling all morning!",Happy,Walking on Sunshine,Katrina and the Waves,Pop,Happy,210,High
+"Just passed my college semester exams with top marks, so thrilled and excited!",Happy,Good Life,OneRepublic,Pop Rock,Happy,95,Medium
+Had the best weekend ever with my closest friends laughing and eating pizza.,Happy,Walking on Sunshine,Katrina and the Waves,Pop,Happy,210,High
+Got hired for my dream software developer internship! I'm on cloud nine!,Happy,Good Life,OneRepublic,Pop Rock,Happy,95,Medium
+Woke up feeling fantastic and positive about everything in my life.,Happy,Walking on Sunshine,Katrina and the Waves,Pop,Happy,210,High
+Celebrating my birthday today surrounded by people who love and support me.,Happy,Good Life,OneRepublic,Pop Rock,Happy,95,Medium
+"Such wonderful cheerful news today, feeling blessed and full of gratitude.",Happy,Walking on Sunshine,Katrina and the Waves,Pop,Happy,210,High
+"Finally bought tickets to see my favorite band live in concert, so hyped!",Happy,Good Life,OneRepublic,Pop Rock,Happy,95,Medium
+Enjoying a bright sunny morning with a big smile on my face.,Happy,Walking on Sunshine,Katrina and the Waves,Pop,Happy,210,High
+Our team won the championship game! Celebrating our hard work and victory!,Happy,Good Life,OneRepublic,Pop Rock,Happy,95,Medium
+Life feels amazing and I cannot stop smiling about my achievements.,Happy,Walking on Sunshine,Katrina and the Waves,Pop,Happy,210,High
+Surprised my mother with flowers and seeing her happy made my entire week.,Happy,Good Life,OneRepublic,Pop Rock,Happy,95,Medium
+"Feeling super cheerful, optimistic, and excited about the future.",Happy,Walking on Sunshine,Katrina and the Waves,Pop,Happy,210,High
+"A bright and energetic morning, ready to share positive vibes with everyone.",Happy,Good Life,OneRepublic,Pop Rock,Happy,95,Medium
+"Everything is working out so smoothly, pure joy and happiness today.",Happy,Walking on Sunshine,Katrina and the Waves,Pop,Happy,210,High
+Laughed so hard today with my roommates until tears came out of our eyes.,Happy,Good Life,OneRepublic,Pop Rock,Happy,95,Medium
+I feel totally exhausted and burned out from staying up studying all night.,Happy,Walking on Sunshine,Katrina and the Waves,Pop,Happy,210,High
+Staring at the rain feeling down and completely alone in my apartment.,Happy,Good Life,OneRepublic,Pop Rock,Happy,95,Medium
+So bored sitting at home with nothing interesting or fun to do.,Happy,Walking on Sunshine,Katrina and the Waves,Pop,Happy,210,High
+I have a terrible headache and feel very irritated by all the noise.,Happy,Good Life,OneRepublic,Pop Rock,Happy,95,Medium
+"Feeling really lonely, depressed, and heartbroken tonight staring at the dark sky.",Sad,Someone Like You,Adele,Soul / Pop,Sad,135,Low
+"It hurts so much to lose someone you cared about deeply, crying alone.",Sad,Fix You,Coldplay,Alternative Rock,Sad,138,Low
+"Failed my interview after months of preparation, feeling like a complete failure.",Sad,Someone Like You,Adele,Soul / Pop,Sad,135,Low
+"Missing my family and home so much, living alone feels painful and cold.",Sad,Fix You,Coldplay,Alternative Rock,Sad,138,Low
+"Nobody called or texted me today, feeling invisible and worthless.",Sad,Someone Like You,Adele,Soul / Pop,Sad,135,Low
+Deep sorrow and grief in my chest that just won't heal.,Sad,Fix You,Coldplay,Alternative Rock,Sad,138,Low
+Everything feels hopeless right now and I don't know how to move forward.,Sad,Someone Like You,Adele,Soul / Pop,Sad,135,Low
+Crying in my bed listening to the raindrops hitting the window pane.,Sad,Fix You,Coldplay,Alternative Rock,Sad,138,Low
+Disappointed and hurt by someone I trusted with all my heart.,Sad,Someone Like You,Adele,Soul / Pop,Sad,135,Low
+"A gloomy, dark, and melancholic afternoon where everything feels depressing.",Sad,Fix You,Coldplay,Alternative Rock,Sad,138,Low
+"Feeling down in the dumps, empty inside, and having zero energy.",Sad,Someone Like You,Adele,Soul / Pop,Sad,135,Low
+I feel overwhelmed with sadness and sorrow that I cannot express in words.,Sad,Fix You,Coldplay,Alternative Rock,Sad,138,Low
+Another lonely Friday evening with nothing but sadness and heavy thoughts.,Sad,Someone Like You,Adele,Soul / Pop,Sad,135,Low
+Life feels like an endless struggle and I'm feeling heartbroken and defeated.,Sad,Fix You,Coldplay,Alternative Rock,Sad,138,Low
+"Lost my pet who was my best companion, my heart is utterly shattered.",Sad,Someone Like You,Adele,Soul / Pop,Sad,135,Low
+"Tears won't stop falling, feeling so isolated from the entire world.",Sad,Fix You,Coldplay,Alternative Rock,Sad,138,Low
+Just drank a warm cup of herbal tea and took a slow peaceful walk.,Sad,Someone Like You,Adele,Soul / Pop,Sad,135,Low
+"Hit a personal record on my bench press at the gym today, let's go!",Sad,Fix You,Coldplay,Alternative Rock,Sad,138,Low
+Eating a delicious warm breakfast on a peaceful quiet Sunday morning.,Sad,Someone Like You,Adele,Soul / Pop,Sad,135,Low
+Crushed my presentation and the audience gave a standing ovation!,Sad,Fix You,Coldplay,Alternative Rock,Sad,138,Low
+"Sitting on the porch listening to gentle acoustic guitar, feeling calm and at peace.",Relaxed,Weightless,Marconi Union,Ambient / Chillout,Relaxed,60,Low
+Drinking a warm cup of chamomile tea while reading a gentle book.,Relaxed,Sunflower,Rex Orange County,Indie Pop / Lo-Fi,Relaxed,78,Low
+"Lying down on the green grass looking at fluffy clouds drift by, totally relaxed.",Relaxed,Weightless,Marconi Union,Ambient / Chillout,Relaxed,60,Low
+"Just finished a deep meditation session, my mind feels quiet and tranquil.",Relaxed,Sunflower,Rex Orange County,Indie Pop / Lo-Fi,Relaxed,78,Low
+"A slow, peaceful Sunday morning with gentle breeze and cozy blankets.",Relaxed,Weightless,Marconi Union,Ambient / Chillout,Relaxed,60,Low
+"Watching the sunset paint the sky in gentle pastel colors, total serenity.",Relaxed,Sunflower,Rex Orange County,Indie Pop / Lo-Fi,Relaxed,78,Low
+Taking a warm aromatic bath with lavender scents after a long week.,Relaxed,Weightless,Marconi Union,Ambient / Chillout,Relaxed,60,Low
+Soft ambient lo-fi music playing in the background while I rest comfortably.,Relaxed,Sunflower,Rex Orange County,Indie Pop / Lo-Fi,Relaxed,78,Low
+"Walking through the botanical garden without checking the time, so soothing.",Relaxed,Weightless,Marconi Union,Ambient / Chillout,Relaxed,60,Low
+"Quiet evening at home, resting on the couch wrapped in a warm fleece blanket.",Relaxed,Sunflower,Rex Orange County,Indie Pop / Lo-Fi,Relaxed,78,Low
+"Mind feels completely at ease, no rush, no pressure, just peaceful breathing.",Relaxed,Weightless,Marconi Union,Ambient / Chillout,Relaxed,60,Low
+Enjoying the slow rhythm of the evening rain with a warm mug of cocoa.,Relaxed,Sunflower,Rex Orange County,Indie Pop / Lo-Fi,Relaxed,78,Low
+Stretching gently and releasing all physical tension from my shoulders.,Relaxed,Weightless,Marconi Union,Ambient / Chillout,Relaxed,60,Low
+Watching the calm ocean waves roll in gently on a quiet evening shore.,Relaxed,Sunflower,Rex Orange County,Indie Pop / Lo-Fi,Relaxed,78,Low
+"Serene atmosphere, soft candlelight, and pure peaceful tranquility.",Relaxed,Weightless,Marconi Union,Ambient / Chillout,Relaxed,60,Low
+Unwinding after work with chilled instrumental melodies and quiet stillness.,Relaxed,Sunflower,Rex Orange County,Indie Pop / Lo-Fi,Relaxed,78,Low
+My heart is racing with adrenaline before stepping onto the stage to speak!,Relaxed,Weightless,Marconi Union,Ambient / Chillout,Relaxed,60,Low
+I am panicking because my exam starts in fifteen minutes and I haven't finished!,Relaxed,Sunflower,Rex Orange County,Indie Pop / Lo-Fi,Relaxed,78,Low
+Fired up to hit the gym and lift heavy weights to push past my limits!,Relaxed,Weightless,Marconi Union,Ambient / Chillout,Relaxed,60,Low
+"So furious at what happened today at work, I cannot stand this injustice!",Relaxed,Sunflower,Rex Orange County,Indie Pop / Lo-Fi,Relaxed,78,Low
+"Hit a brand new personal record in the gym today, feeling unstoppable and hungry for more!",Motivated,Eye of the Tiger,Survivor,Hard Rock / Anthem,Motivated,109,High
+"Focused and locked in on my startup project, ready to crush every single obstacle!",Motivated,Stronger,Kanye West,Hip-Hop / Electronic,Motivated,104,High
+"Late night grind, coding passionately and pushing towards my ultimate vision!",Motivated,Eye of the Tiger,Survivor,Hard Rock / Anthem,Motivated,109,High
+"Woke up at 5 AM energized, hungry for success, and ready to conquer the day!",Motivated,Stronger,Kanye West,Hip-Hop / Electronic,Motivated,104,High
+Discipline beats motivation every time! Putting in the hard work without excuses.,Motivated,Eye of the Tiger,Survivor,Hard Rock / Anthem,Motivated,109,High
+"Nothing can derail my focus now, dedicated to achieving greatness in my career.",Motivated,Stronger,Kanye West,Hip-Hop / Electronic,Motivated,104,High
+"Every failure is just a stepping stone to a massive comeback, let's win!",Motivated,Eye of the Tiger,Survivor,Hard Rock / Anthem,Motivated,109,High
+"Fueled by ambition, burning desire, and high energy to reach the top.",Motivated,Stronger,Kanye West,Hip-Hop / Electronic,Motivated,104,High
+"Ready to dominate my final exams, studied hard and confidence is at an all-time high!",Motivated,Eye of the Tiger,Survivor,Hard Rock / Anthem,Motivated,109,High
+Time to step out of the comfort zone and hustle until the dream becomes reality.,Motivated,Stronger,Kanye West,Hip-Hop / Electronic,Motivated,104,High
+"Excited to learn new skills, build cool AI models, and push my capabilities forward.",Motivated,Eye of the Tiger,Survivor,Hard Rock / Anthem,Motivated,109,High
+"Determination running through my veins, refusing to quit until the goal is scored.",Motivated,Stronger,Kanye West,Hip-Hop / Electronic,Motivated,104,High
+"High energy, relentless ambition, and absolute dedication to personal growth.",Motivated,Eye of the Tiger,Survivor,Hard Rock / Anthem,Motivated,109,High
+Stepping into the interview with supreme confidence and passion for the craft.,Motivated,Stronger,Kanye West,Hip-Hop / Electronic,Motivated,104,High
+Grinding every single day because greatness requires relentless consistency.,Motivated,Eye of the Tiger,Survivor,Hard Rock / Anthem,Motivated,109,High
+Let's get after it today! Push through the pain and earn the championship!,Motivated,Stronger,Kanye West,Hip-Hop / Electronic,Motivated,104,High
+"Feeling so depressed and helpless in bed, can barely find the strength to move.",Motivated,Eye of the Tiger,Survivor,Hard Rock / Anthem,Motivated,109,High
+Just resting quietly on the sofa listening to the soft rain outside.,Motivated,Stronger,Kanye West,Hip-Hop / Electronic,Motivated,104,High
+I feel like crying and giving up because nothing ever works out for me.,Motivated,Eye of the Tiger,Survivor,Hard Rock / Anthem,Motivated,109,High
+Sitting peacefully by the river watching the gentle ripples in the water.,Motivated,Stronger,Kanye West,Hip-Hop / Electronic,Motivated,104,High
